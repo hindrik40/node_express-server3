@@ -159,5 +159,7 @@ M       README.md
 branch 'express4' set up to track 'origin/express4'.
 PS D:\repetition Anders\node_express-server3> git branch
 * express4
-  main
+  maintaskkill /F /IM node.exe
+
 PS D:\repetition Anders\node_express-server3> 
+taskkill /F /IM node.exe

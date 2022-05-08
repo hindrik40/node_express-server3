@@ -1,0 +1,27 @@
+{
+  "name": "node_express-server3",
+  "version": "1.0.0",
+  "description": "express node.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hindrik40/node_express-server3.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "hindrik40",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hindrik40/node_express-server3/issues"
+  },
+  "homepage": "https://github.com/hindrik40/node_express-server3#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
